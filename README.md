@@ -2,9 +2,9 @@
 How to publish an ionic APP on Apple store 
 * Step 1->  configure your ionic app means add the unique package name in config.xml file 
 * Step 2-> Add ios platform to ionic project app using below command
-           # $  Ionic platform add ios
+          * # $  Ionic platform add ios
 * Step 3-> now build your ionic project using the below command 
-#	$ ionic build ios –release
+* # $ ionic build ios –release
 * Step 4-> Login Xcode with developer.apple.com account
 * Step 5-> Login developer.apple.com account on web site
 * Step 6- > now 1st we need to create certificate for app profile so open keychain access from MAC system , then from the keychain access-> at top menu certificate Assistant-> Request a certificate from a certificate authority.
